@@ -145,6 +145,7 @@ class _MyAppState extends State<MyApp> {
             ],
           ),
         ),
+        //appbar section
         appBar: AppBar(
           centerTitle: true,
           title: const Text('TodaysNews'),
